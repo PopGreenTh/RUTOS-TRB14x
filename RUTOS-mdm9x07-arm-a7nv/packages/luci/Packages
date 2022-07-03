@@ -1,0 +1,47 @@
+Package: luci-lib-ip
+Version: git-20.250.76529-62505bd
+Depends: libc, liblua5.1.5, libnl-tiny1
+License: Apache-2.0
+Section: luci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 10384
+Filename: luci-lib-ip_git-20.250.76529-62505bd_arm_cortex-a7_neon-vfpv4.ipk
+Size: 11492
+SHA256sum: 5db4d08ee07cb94272d4c9e73a530eac9f2d7c8b3fcb567342ed3de7b07e542f
+Description:  Lua library for IP calculation and routing information
+
+Package: luci-lib-jsonc
+Version: git-19.317.29469-8da8f38
+Depends: libc, liblua5.1.5, libjson-c5
+Section: luci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3694
+Filename: luci-lib-jsonc_git-19.317.29469-8da8f38_arm_cortex-a7_neon-vfpv4.ipk
+Size: 4687
+SHA256sum: f95e851f0c6939c0c1d126e0c26d20e8d29c80ef90bdad17b08b25599a655588
+Description:  Lua binding for JSON-C
+
+Package: luci-lib-nixio
+Version: git-20.234.06894-c4a4e43
+Depends: libc, liblua5.1.5
+License: Apache-2.0
+Section: luci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 28980
+Filename: luci-lib-nixio_git-20.234.06894-c4a4e43_arm_cortex-a7_neon-vfpv4.ipk
+Size: 29797
+SHA256sum: f9dbb1f814a2bece76ee620634bb197f854d2f586aacb7ed7ec6b2a1eb4859aa
+Description:  NIXIO POSIX library
+
+Package: rpcd-mod-rrdns
+Version: 20170710
+Depends: libc, rpcd, libubox20210516, libubus20210630
+License: Apache-2.0
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3459
+Filename: rpcd-mod-rrdns_20170710_arm_cortex-a7_neon-vfpv4.ipk
+Size: 4473
+SHA256sum: 73bcebb7c417998e3b35633c574607466a73115ef2ae273de56c3d840843ba14
+Description:  Provides rapid mass reverse DNS lookup functionality.
+

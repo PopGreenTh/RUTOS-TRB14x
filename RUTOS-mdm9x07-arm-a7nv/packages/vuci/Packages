@@ -1,0 +1,674 @@
+Package: lua_crypto
+Version: 1.0-1
+Depends: libc, liblua5.1.5, openssl-util
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1571
+Filename: lua_crypto_1.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2523
+SHA256sum: 7b144f30b55b677c8d6b90e4e35400a59295626dcb16fe81d159d8d3792af7c6
+Description:  A simple lib that exposes OpenSSL cryptographic function for use in LUA.
+
+Package: vuci-app-auto-reboot
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 547
+Filename: vuci-app-auto-reboot_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 1449
+SHA256sum: 5c2ec31cba4791eda48cfc67a454cf81e489f40f0f431aeea936abb70a260371
+Description:  VuCI Support for Auto Reboot
+
+Package: vuci-app-azure-iothub
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 29450
+Filename: vuci-app-azure-iothub_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 29243
+SHA256sum: c56e82855bc7e938cc778b84399df2ddfda5c1a37bb743ed44885cf048064116
+Description:  VuCI Support for Azure IoT Hub
+
+Package: vuci-app-backup
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1774
+Filename: vuci-app-backup_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2666
+SHA256sum: 78f3b9ecc1155fccee8a79930bbfea4b99539544645db662ee07687cc3bf192f
+Description:  VuCI Support for Backup
+
+Package: vuci-app-cli
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 403
+Filename: vuci-app-cli_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 1290
+SHA256sum: a7e4a3ad0b42f9ecb1052858f71a68825152d95290a0548d89af666c31eab1ce
+Description:  VuCI Support for cli
+
+Package: vuci-app-cloud-of-things
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 21695
+Filename: vuci-app-cloud-of-things_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 21788
+SHA256sum: a9eaf99d28a5d717c8f9d8cd92ff7878a5cae08258c34d2039336e9558d17eff
+Description:  VuCI Support for Cloud of Things
+
+Package: vuci-app-cloud-solutions
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 479
+Filename: vuci-app-cloud-solutions_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 1380
+SHA256sum: 35e662ab06b2c77018f5f797424ecf9e002e6d7a1f5c1146c8eb8530f574d87c
+Description:  VuCI Support for Cloud Solutions
+
+Package: vuci-app-cumulocity
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 35384
+Filename: vuci-app-cumulocity_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 34853
+SHA256sum: 44a439051c7994124999648a64a451fde68ddaa77353304a51a0c3c1308ab1b4
+Description:  VuCI Support for Cumulocity
+
+Package: vuci-app-data-sender
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 866
+Filename: vuci-app-data-sender_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 1783
+SHA256sum: 8a749e4f30c9d00f85583510f2e7d0845c95f3a9c14df615e82bd4c653d119ad
+Description:  VuCI Support for Data Sender
+
+Package: vuci-app-ddns
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 4077
+Filename: vuci-app-ddns_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 4967
+SHA256sum: 831ca1ae9202ed125660587ed6c4371985c5e90fd408aedad0354fa127439b3a
+Description:  VuCI Support for Dynamic DNS
+
+Package: vuci-app-dmvpn
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 254463
+Filename: vuci-app-dmvpn_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 255206
+SHA256sum: b2bf3354da593ae07897e1c0063a9731f98479d68f6ef9910296da883b69ff33
+Description:  VuCI Support for DMVPN
+
+Package: vuci-app-dnp3
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 259538
+Filename: vuci-app-dnp3_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 260491
+SHA256sum: a00d05024d98c2254f2ec5ff61d50a584ca7ede3b0722ee8e5c29c997d1823ff
+Description:  VuCI Support for DNP3
+
+Package: vuci-app-dns
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 424
+Filename: vuci-app-dns_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 1314
+SHA256sum: 0eff5308ccca3947b71e43e1c366f6d2a83cbe4ab1b41d5dc91e8ca7313f5058
+Description:  VuCI Support for DNS
+
+Package: vuci-app-events-reporting
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1618
+Filename: vuci-app-events-reporting_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2522
+SHA256sum: 2948a6042ea8d73c924544111da9fddadb4488495294007037e5f273aa176f19
+Description:  VuCI Support for Events Reporting
+
+Package: vuci-app-firewall
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 2476
+Filename: vuci-app-firewall_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3387
+SHA256sum: aa15befba3ee13725c4e34ae438f67d4adb3e679410caec5c43d60b8b9acc91e
+Description:  VuCI Support for Firewall
+
+Package: vuci-app-gre
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1712
+Filename: vuci-app-gre_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2601
+SHA256sum: 798fe5ca2ccdd84f85cbc93c36ae6f9a8256a68e812e4f1b3273c62be98d07b4
+Description:  VuCI Support for GRE
+
+Package: vuci-app-igmp-proxy
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 189552
+Filename: vuci-app-igmp-proxy_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 188865
+SHA256sum: 4a9dcf1197ea2057520bf4341371eb2a8f4888c7194ca8e79c8f105cb757259c
+Description:  VuCI Support for IGMP Proxy
+
+Package: vuci-app-io
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 125365
+Filename: vuci-app-io_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 126399
+SHA256sum: af5c11f09d28fed6d4e213ec1dbb9cfaf0f1beb7d57944bf69ae6de4e795e78f
+Description:  VuCI Support for I/O
+
+Package: vuci-app-l2tp
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3005
+Filename: vuci-app-l2tp_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3902
+SHA256sum: 82cb8374a7a737072ee136f6a0750ef4b60814cc6a539b98e573f95d61045fc0
+Description:  VuCI Support for L2TP
+
+Package: vuci-app-mbus
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 855
+Filename: vuci-app-mbus_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 1774
+SHA256sum: 634ebfa92c551a2c8991f3e521d879b2cf8df5dd7a1bb1a8bae9ee0954a19949
+Description:  VuCI Support for M-Bus
+
+Package: vuci-app-mobile-utilities
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 2175
+Filename: vuci-app-mobile-utilities_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3085
+SHA256sum: 45d3ed5d7fc635576417ad77781bd481790d5ccfc3d23e3bf8e36362d584537b
+Description:  VuCI Support for Mobile Utilities
+
+Package: vuci-app-mobile
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 5302
+Filename: vuci-app-mobile_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 6210
+SHA256sum: a033b443c760c5a43edb81f088be1af3c4d059bf52578cedda97ad558f4fdc9f
+Description:  VuCI Support for Mobile
+
+Package: vuci-app-modbus-gateway
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 458
+Filename: vuci-app-modbus-gateway_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 1358
+SHA256sum: dea6eeec9c9e9fc65f4bacbbd02580f6d478c0ab1ebbad190bf9d42c7eaa077a
+Description:  VuCI Support for Modbus Gateway
+
+Package: vuci-app-modbus-serial
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 286758
+Filename: vuci-app-modbus-serial_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 287609
+SHA256sum: 6b12c57672a1381765308ea84b463c056e470a772530f465a433a7b06b13b28d
+Description:  VuCI Support for Modbus
+
+Package: vuci-app-modbus-slave
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1130
+Filename: vuci-app-modbus-slave_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2033
+SHA256sum: 6ca567eef8793a43037818f8a141f80be8346a4a2b25eec8c8a1505404d9db2f
+Description:  VuCI Support for Modbus TCP Slave
+
+Package: vuci-app-modbus
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 2237
+Filename: vuci-app-modbus_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3142
+SHA256sum: 4083c462264e4c9533e0c5aee8f33035ed7cfdc3198c99cc9eb53a8eae87977d
+Description:  VuCI Support for Modbus
+
+Package: vuci-app-mqtt
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1254
+Filename: vuci-app-mqtt_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2161
+SHA256sum: 3392fa00d8f5b4859e09a4f675a7e734cff9b799f6417b7f8e56b61400cbb48c
+Description:  VuCI Support for MQTT
+
+Package: vuci-app-multiusers
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 2065
+Filename: vuci-app-multiusers_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2963
+SHA256sum: bab3f81deab158d60b097930df52eae23d39398c390601fd430e3353f7351a6a
+Description:  VuCI Multiusers Package
+
+Package: vuci-app-ntp
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 6458
+Filename: vuci-app-ntp_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 7422
+SHA256sum: eeafaa41d2fe46795dcc13127f5fec729a21e1de5c0da3f4c8733ac62bafaf0b
+Description:  VuCI Support for Traffic Logging
+
+Package: vuci-app-ntpd
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 7190
+Filename: vuci-app-ntpd_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 8002
+SHA256sum: 688daf9511fe4d86608a84ee6799c0cfcb2ff766d55f12ec335da7f58b4792d9
+Description:  VuCI Support for NTPD time synchronisation configuration module
+
+Package: vuci-app-openvpn
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 5230
+Filename: vuci-app-openvpn_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 6103
+SHA256sum: b387126cc441b9f1f53cd7a70288b28b407dec79623f5ca58e30a6b08d4c6c72
+Description:  VuCI Support for OPENVPN
+
+Package: vuci-app-package-manager
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 4812
+Filename: vuci-app-package-manager_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 5701
+SHA256sum: b435ce7d7eaa597f9f8287007dfc1808e3ef2fed313894072df767d56f688bad
+Description:  VuCI Support for cli
+
+Package: vuci-app-pamd
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 25573
+Filename: vuci-app-pamd_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 25444
+SHA256sum: 5a0615ccbf264286f105b86d9d3fc54a7db0c0ccbf544b0cbf5d843a837a998d
+Description:  VuCI Support for PAM authentication
+
+Package: vuci-app-pptp
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 2440
+Filename: vuci-app-pptp_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3345
+SHA256sum: 2ad64bc7e5a4d280c785904e691d0861c7fda00c1863240d12218b59ec1075c9
+Description:  VuCI Support for PPTP
+
+Package: vuci-app-profiles
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 2891
+Filename: vuci-app-profiles_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3805
+SHA256sum: 1ce8c3a4a12e1ac8a19e5869527d6069ec01b17eb39a21e61f1a323dedf4dbb0
+Description:  VuCI Support for Profiles
+
+Package: vuci-app-qos
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 243431
+Filename: vuci-app-qos_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 244498
+SHA256sum: bf836256d960e579afdc2fc355ba21c0e6c4c60f42c851193ae92970afe78e27
+Description:  VuCI Support for QoS
+
+Package: vuci-app-routes
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 4232
+Filename: vuci-app-routes_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 5132
+SHA256sum: 624cc957c582a43c7b300d0b61a58edfa6866c7c9b2cebf6da839353b9fee1b7
+Description:  VuCI Support Static routes application
+
+Package: vuci-app-smpp
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 14419
+Filename: vuci-app-smpp_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 14810
+SHA256sum: 02d2a298bbefee41fcd9a693acb7e39c90238488919516a95add7c4753f2e873
+Description:  VuCI Support for SMPP
+
+Package: vuci-app-snmp
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 682
+Filename: vuci-app-snmp_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 1595
+SHA256sum: 8d3ff5453f73d37c956c7dd9d5ba2c9403564b21f0030ab60f39a8700a5917ed
+Description:  VuCI Support for SNMP application
+
+Package: vuci-app-sodog
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1208
+Filename: vuci-app-sodog_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2121
+SHA256sum: fd9075b7252b391e1d18c3fb59be7a98f04f86c6e79ec291f4902e5c9fac1459
+Description:  VuCI Support for Usb to serial application
+
+Package: vuci-app-speed-test
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 27710
+Filename: vuci-app-speed-test_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 27515
+SHA256sum: db443a6fd5323f2e09a865b58a6d6377f1158dd2c0c6259c4e6e816906b21c3b
+Description:  VuCI Support for Speed Test
+
+Package: vuci-app-sqm
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 245427
+Filename: vuci-app-sqm_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 246465
+SHA256sum: 0679669cce08dd9847f11b1459c01010ff30999e91527bee50a39d776cd99649
+Description:  VuCI Support for SQM
+
+Package: vuci-app-sshfs
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 6876
+Filename: vuci-app-sshfs_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 7652
+SHA256sum: 257a91dd01a381b611a0fd07f4cc87ffe8df6c7cf760cf5669103840b228b07c
+Description:  VuCI Support for SSHFS
+
+Package: vuci-app-sstp
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 18712
+Filename: vuci-app-sstp_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 18979
+SHA256sum: e8e877a1c1228d54d528b61816e0853e622521174df427379bad13f86d09de60
+Description:  VuCI Support for SSTP
+
+Package: vuci-app-strong-swan
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1309
+Filename: vuci-app-strong-swan_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2213
+SHA256sum: 00d5b642565e83b07cdd6faa2c8fbe1052d1b5e68258cffb2ed54b4468d78abf
+Description:  VuCI Support for strongSwan
+
+Package: vuci-app-stunnel
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 208722
+Filename: vuci-app-stunnel_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 209666
+SHA256sum: 51c6526a0734d3e7534a86bd2e249aaf80625bed998993880e42b0671d67aca9
+Description:  VuCI Support for STunnel
+
+Package: vuci-app-thingworx
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 6260
+Filename: vuci-app-thingworx_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 7033
+SHA256sum: 16837b7e4f0bff066ff333dd51a29163ee1aed56c693c98f1dbf32d9b494fff3
+Description:  VuCI Support for ThingWorx
+
+Package: vuci-app-tr069
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 8322
+Filename: vuci-app-tr069_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 8992
+SHA256sum: f7bc914d1813bf52ecaa3cab3f43c42d93a24cd3ac5f38c483899226adf19f2e
+Description:  VuCI Support for TR-069
+
+Package: vuci-app-ulog
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1116
+Filename: vuci-app-ulog_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2023
+SHA256sum: 2866fcb874ac7c1f98f3dcf654ad04eaa17ac7d5d6154edba14a9f12827c046a
+Description:  VuCI Support for Traffic Logging
+
+Package: vuci-app-upnp
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 17662
+Filename: vuci-app-upnp_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 17989
+SHA256sum: 5aa0f86d4b85dc08225e3da9559fffb78867c5b8d0509b9d8e0c61c6dfd134d8
+Description:  VuCI Support for UPnP
+
+Package: vuci-app-vlan
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1456
+Filename: vuci-app-vlan_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2349
+SHA256sum: c16e3f9f3bd3c95364e3506b0ebf0455fc6c81b65854440d1c6efda6cdda365d
+Description:  VuCI Support for VLAN
+
+Package: vuci-app-vrrp
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 33690
+Filename: vuci-app-vrrp_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 33237
+SHA256sum: f6015b6f64e1a54b6d3d1cf86b5cead40b51793e1eac4eae3f83144d5c99cdd6
+Description:  VuCI Support for VRRP
+
+Package: vuci-app-webfilter
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 26430
+Filename: vuci-app-webfilter_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 26333
+SHA256sum: 323f464806a8bdb84f0d385a35b55f11b95e35f573ae070f7ca859394368d949
+Description:  VuCI Support for webfilter
+
+Package: vuci-app-wireguard
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 2530
+Filename: vuci-app-wireguard_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3449
+SHA256sum: b8d965af1a34e1fa8b20433f749499c9e0727a93b8d5907a02eed75bb5134f64
+Description:  VuCI Support for Wireguard
+
+Package: vuci-app-wol
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 437
+Filename: vuci-app-wol_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 1329
+SHA256sum: 30842bc651ef7a56197bf3051e344cb6e058623bbd2fb1c36ae8e98e5a33d487
+Description:  VuCI Support for WOL
+
+Package: vuci-app-zerotier
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 7746
+Filename: vuci-app-zerotier_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 8521
+SHA256sum: 008092cdf9542efea25db3fe498cd900c5251c4c8117217379d2c6c699b95601
+Description:  VuCI Support for Zerotier
+
+Package: vuci-i18n-german
+Version: 1
+Depends: libc, vuci-ui-core
+Section: vuci
+Router: TRB1
+Firmware: TRB1_R_GPL_00.07.02.3
+tlt_name: German Language Support
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 137806
+Filename: vuci-i18n-german_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 139047
+SHA256sum: dae9faa037e1f738d22514040f4c353d7c57a73c33ef4e078183c63e82fa8079
+Description:  German Language Support
+
+Package: vuci-rpc-core
+Version: 1
+Depends: libc, rpcd, rpcd-mod-iwinfo, rpcd-mod-file, rpcd-mod-rpcsys, uhttpd, uhttpd-mod-ubus, lua, libubox-lua, libubus-lua, libuci-lua, liblua5.1.5, luci-lib-jsonc, luci-lib-nixio, luci-lib-ip, tlt_parser_lua, luci-bwc, rpcd-mod-rrdns, uhttpd-mod-lua, lua_crypto
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 109713
+Filename: vuci-rpc-core_1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 110830
+SHA256sum: 2c65e96eefe2d847be8f56b0cdfae06c01fba1f69c37962c879e4415999c0d72
+Description:  Provides the core RPC infrastructure to run VuCI.
+
+Package: vuci-ui-core
+Version: 2022-06-21-e8c65c300-2
+Depends: libc, vuci-rpc-core
+Section: vuci
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 977446
+Filename: vuci-ui-core_2022-06-21-e8c65c300-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 978717
+SHA256sum: 77186c19ca999ba0bde27123d4ac7b2db12e6d01fa0449371cb8b38af8f907ff
+Description:  Provides core ui for VuCI
+

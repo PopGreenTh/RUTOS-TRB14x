@@ -1,0 +1,472 @@
+Package: bind-client
+Version: 9.17.13-1
+Depends: libc, bind-libs
+Source: feeds/packages/net/bind
+SourceName: bind-client
+License: MPL-2.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1622180743
+CPE-ID: cpe:/a:isc:bind
+Maintainer: Noah Meyerhans <frodo@morgul.net>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 20224
+Filename: bind-client_9.17.13-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 21112
+SHA256sum: 64754b801ab946627e8f17972041a507502ecf5e2be86393bacad3b64f1df14d
+Description:  bind dynamic DNS client
+
+Package: bind-libs
+Version: 9.17.13-1
+Depends: libc, libopenssl1.1, zlib, libpthread, libatomic1, libuv1, libnghttp2-14
+Source: feeds/packages/net/bind
+SourceName: bind-libs
+License: MPL-2.0
+LicenseFiles: LICENSE
+Section: libs
+SourceDateEpoch: 1622180743
+CPE-ID: cpe:/a:isc:bind
+Maintainer: Noah Meyerhans <frodo@morgul.net>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1171146
+Filename: bind-libs_9.17.13-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 1165449
+SHA256sum: 3a68e0881172427e3c814a40476000012347d91cfccb2e25449bf7069a46527b
+Description:  bind shared libraries
+
+Package: bridge
+Version: 1.7-2
+Depends: libc
+Alternatives: 300:/usr/sbin/brctl:/usr/libexec/brctl-bridge-utils
+Source: feeds/packages/net/bridge-utils
+SourceName: bridge
+License: GPL-2.0-or-later
+LicenseFiles: COPYING
+Section: net
+SourceDateEpoch: 1602159771
+Maintainer: Nikolay Martynov <mar.kolya@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 9020
+Filename: bridge_1.7-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 10045
+SHA256sum: 7db9bf2c49f4fe1fd108aa6e8f3c96f8c346d38a0987e5700b389ba35602df21
+Description:  Manage ethernet bridging: a way to connect networks together to
+ form a larger network.
+
+Package: cJSON
+Version: 1.7.14-3
+Depends: libc
+Source: feeds/packages/libs/cjson
+SourceName: cJSON
+License: MIT
+LicenseFiles: LICENSE
+Section: libs
+SourceDateEpoch: 1611236967
+CPE-ID: cpe:/a:cjson_project:cjson
+Maintainer: Karl Palsson <karlp@etactica.com>
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 9189
+Filename: cJSON_1.7.14-3_arm_cortex-a7_neon-vfpv4.ipk
+Size: 10294
+SHA256sum: 2eda6dc027320ef34f1a467093e862e93627d357a50e4aacb4584d399586cde2
+Description:  Ultralightweight JSON parser in ANSI C.
+ cJSON aims to be the dumbest possible parser that you can get your
+ job done with. It's a single file of C, and a single header file.
+
+Package: dtc
+Version: 1.6.0-1
+Depends: libc
+Source: feeds/packages/libs/dtc
+SourceName: dtc
+License: GPL-2.0
+LicenseFiles: GPL
+Section: utils
+SourceDateEpoch: 1584696433
+Maintainer: Yousong Zhou <yszhou4tech@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 40999
+Filename: dtc_1.6.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 42129
+SHA256sum: b5a7957258da59b6e87e6641d7743c31ca061f27c550c1fc359074514385af86
+Description:  Device Tree Compiler for Flat Device Trees Device Tree Compiler, dtc, takes
+ as input a device-tree in a given format and outputs a device-tree in another
+ format for booting kernels on embedded systems.
+
+Package: i2c-tools
+Version: 4.2-1
+Depends: libc, libi2c
+Source: feeds/packages/utils/i2c-tools
+SourceName: i2c-tools
+License: GPL-2.0-or-later LGPL-2.1-or-later
+LicenseFiles: COPYING COPYING.LGPL
+Section: utils
+SourceDateEpoch: 1601242234
+Maintainer: Daniel Golle <daniel@makrotopia.org>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 19494
+Filename: i2c-tools_4.2-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 20481
+SHA256sum: 61241fbdc881b4055312ca319bbda09b032220850b1b5c39d6214368ebd03180
+Description:  This package contains an heterogeneous set of I2C tools for Linux. These tools
+ were originally part of the lm-sensors package.
+
+Package: libattr
+Version: 2.4.48-2
+Depends: libc
+Source: feeds/packages/utils/attr
+SourceName: libattr
+License: LGPL-2.1-or-later
+LicenseFiles: doc/COPYING.LGPL
+Section: libs
+SourceDateEpoch: 1614187565
+Maintainer: Maxim Storchak <m.storchak@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 5810
+Filename: libattr_2.4.48-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 6836
+SHA256sum: a0895930c67af3e116f26063140876e6dfc47cc789c7f94acb0880a9c3fb7617
+Description:  Extended attributes support
+ This package provides libattr
+
+Package: libcap-ng
+Version: 0.8.1-1
+Depends: libc
+Source: feeds/packages/libs/libcap-ng
+SourceName: libcap-ng
+License: GPL-2.0-or-later LGPL-2.1-or-later
+LicenseFiles: License
+Section: libs
+SourceDateEpoch: 1606286568
+Maintainer: Lucian CRISTIAN <lucian.cristian@gmail.com>
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 7346
+Filename: libcap-ng_0.8.1-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 8346
+SHA256sum: 419497837e821a4d9d91f74bc718c457b92d493ba935c45bd90f13817c854346
+Description:  POSIX capabilities library library
+
+Package: libcap
+Version: 2.43-1
+Depends: libc
+Source: feeds/packages/libs/libcap
+SourceName: libcap
+License: GPL-2.0-only
+LicenseFiles: License
+Section: libs
+SourceDateEpoch: 1614187565
+Maintainer: Paul Wassi <p.wassi@gmx.at>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 9932
+Filename: libcap_2.43-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 10863
+SHA256sum: 09aca4f67a51ae17861577dbb98620139a099227224ee08f737fcd1c719ab8c8
+Description:  Linux capabilities library library
+
+Package: libcares
+Version: 1.17.2-1
+Depends: libc
+Source: feeds/packages/libs/c-ares
+SourceName: libcares
+License: MIT
+LicenseFiles: LICENSE.md
+Section: libs
+SourceDateEpoch: 1629470767
+CPE-ID: cpe:/a:c-ares_project:c-ares
+Maintainer: Karl Palsson <karlp@etactica.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 33017
+Filename: libcares_1.17.2-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 34149
+SHA256sum: 95ff7ed4364871055de98c59546c26acd8c0cbf585317923ab837cf470e15423
+Description:  c-ares is a C library for asynchronous DNS requests (including name resolves)
+ 
+ C89 compatibility, MIT licensed, builds for and runs on POSIX, Windows,
+ Netware, Android and many more operating systems.
+ 
+
+Package: libffi
+Version: 3.3-2
+Depends: libc
+Source: feeds/packages/libs/libffi
+SourceName: libffi
+License: MIT
+LicenseFiles: LICENSE
+Section: libs
+SourceDateEpoch: 1614187565
+Maintainer: Peter Wagner <tripolar@gmx.at>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 12954
+Filename: libffi_3.3-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 14191
+SHA256sum: 4907395dc1210d7300a4d54411c9f6aeec73c829d72866821cea00b83541a481
+Description:  The libffi library provides a portable, high level programming interface to
+ various calling conventions. This allows a programmer to call any function
+ specified by a call interface description at run-time.
+ 
+ FFI stands for Foreign Function Interface. A foreign function interface is the
+ popular name for the interface that allows code written in one language to call
+ code written in another language. The libffi library really only provides the
+ lowest, machine dependent layer of a fully featured foreign function interface.
+ A layer must exist above libffi that handles type conversions for values passed
+ between the two languages.
+
+Package: libgdbm
+Version: 1.18.1-2
+Depends: libc
+Source: feeds/packages/libs/gdbm
+SourceName: libgdbm
+License: GPL-3.0-or-later
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1593468929
+Maintainer: Marcel Denia <naoir@gmx.net>
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 19471
+Filename: libgdbm_1.18.1-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 20507
+SHA256sum: 36531d85c330e63c3f6c4894f53f3e8b73289ef41217e704a0b5b544bed83685
+Description:  GNU database manager library
+ GNU dbm is a set of database routines that use extendible hashing and
+ works similar to the standard UNIX dbm routines.
+
+Package: libi2c
+Version: 4.2-1
+Depends: libc
+Source: feeds/packages/utils/i2c-tools
+SourceName: libi2c
+License: GPL-2.0-or-later LGPL-2.1-or-later
+LicenseFiles: COPYING COPYING.LGPL
+Section: libs
+SourceDateEpoch: 1601242234
+Maintainer: Daniel Golle <daniel@makrotopia.org>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1849
+Filename: libi2c_4.2-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2846
+SHA256sum: 0bc6edde99295b83707467013d426b9dbf812e3fd6e3f19cc3c4099964fa33ad
+Description:  This package contains i2c functionality needed by i2c-tools.
+
+Package: liblzma
+Version: 5.2.5-3
+Depends: libc, libpthread
+Source: feeds/packages/utils/xz
+SourceName: liblzma
+License: Public-Domain LGPL-2.1-or-later GPL-2.0-or-later GPL-3.0-or-later
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1605949199
+CPE-ID: cpe:/a:tukaani:xz
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 47425
+Filename: liblzma_5.2.5-3_arm_cortex-a7_neon-vfpv4.ipk
+Size: 48391
+SHA256sum: 5e89f9f5c883f1e6f2b105944b57bbbe5c089afb0ec590c9b8adb62942c783ac
+Description:  liblzma library from XZ Utils
+
+Package: libminiupnpc
+Version: 2.2.1-1
+Depends: libc
+Source: feeds/packages/net/miniupnpc
+SourceName: libminiupnpc
+License: BSD-3-Clause
+LicenseFiles: LICENSE
+Section: libs
+SourceDateEpoch: 1614187565
+CPE-ID: cpe:/a:miniupnp_project:miniupnp
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 20602
+Filename: libminiupnpc_2.2.1-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 21582
+SHA256sum: 4291306197e07bcbecef8286fa5514a4dd0c1667445eac29e7eaaa740a367e6d
+Description:  Lightweight UPnP library
+
+Package: libnatpmp1
+Version: 20150609-3
+Depends: libc
+Provides: libnatpmp
+Source: feeds/packages/libs/libnatpmp
+SourceName: libnatpmp
+License: BSD-3-Clause
+LicenseFiles: LICENSE
+Section: libs
+SourceDateEpoch: 1584326638
+ABIVersion: 1
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3189
+Filename: libnatpmp1_20150609-3_arm_cortex-a7_neon-vfpv4.ipk
+Size: 4309
+SHA256sum: 2e322d0122af77975a3b372fc998605c05b54011d8b3c3bfc2ac422e70698d4e
+Description:  libnatpmp is an attempt to make a portable and fully compliant implementation
+ of the protocol for the client side. It is based on non blocking sockets and
+ all calls of the API are asynchronous. It is therefore very easy to integrate
+ the NAT-PMP code to any event driven code.
+ This package contains the shared library.
+
+Package: libpci
+Version: 3.7.0-2
+Depends: libc
+Source: feeds/packages/utils/pciutils
+SourceName: libpci
+License: GPL-2.0
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1609305848
+Maintainer: Lucian Cristian <lucian.cristian@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 16857
+Filename: libpci_3.7.0-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 17841
+SHA256sum: 899694d1fb6d4d14cb5bf2a2fc26123a92700a9dc54d8d21a1a015afd0629942
+Description:  Linux PCI Libraries
+
+Package: libuv1
+Version: 1.40.0-3
+Depends: libc, libpthread, librt
+Provides: libuv
+Source: feeds/packages/libs/libuv
+SourceName: libuv
+License: MIT
+LicenseFiles: LICENSE
+Section: libs
+SourceDateEpoch: 1625547763
+ABIVersion: 1
+CPE-ID: cpe:/a:libuv_project:libuv
+Maintainer: Marko Ratkaj <marko.ratkaj@sartura.hr>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 54602
+Filename: libuv1_1.40.0-3_arm_cortex-a7_neon-vfpv4.ipk
+Size: 55387
+SHA256sum: 32a74effcb7548e33fd210bbce356fbf98de4d3f0b5c8867a3146c981c596e31
+Description:  libuv is a multi-platform support library with a focus on asynchronous I/O. It
+ was primarily developed for use by Node.js, but it's also used by Luvit, Julia,
+ pyuv, and others.
+
+Package: lsqlite3
+Version: 0.9.5-1
+Depends: libc, lua, libsqlite3-0
+Source: feeds/packages/lang/lua-lsqlite3
+SourceName: lsqlite3
+License: MIT
+Section: lang
+SourceDateEpoch: 1534263436
+Maintainer: Oskari Rauta <oskari.rauta@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 11568
+Filename: lsqlite3_0.9.5-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 12457
+SHA256sum: 79ef86dcfdee8e612f90daf146c49aa6d8b044bd190c94fece19b0280e97bb4b
+Description:  LuaSQLite3 is a thin wrapper around the public domain SQLite3 database engine.
+
+Package: lua-md5
+Version: 1.3-1
+Depends: libc, lua
+Source: feeds/packages/lang/lua-md5
+SourceName: lua-md5
+License: MIT
+Section: lang
+SourceDateEpoch: 1614187565
+Maintainer: Dirk Chang <dirk@kooiot.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 4773
+Filename: lua-md5_1.3-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 5714
+SHA256sum: 3e3c2c4d50d42c5a8ed1b9f30657bd2c45a6a26188ca8ca4bb78c78458b79ef0
+Description:  MD5 offers basic cryptographic facilities for Lua
+
+Package: luabitop
+Version: 1.0.2-1
+Depends: libc, liblua5.1.5
+Source: feeds/packages/lang/luabitop
+SourceName: luabitop
+License: MIT
+Section: lang
+SourceDateEpoch: 1504068074
+Maintainer: Maxim Storchak <m.storchak@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1860
+Filename: luabitop_1.0.2-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2860
+SHA256sum: 8b5e053a74dce00537bd2ccc5fd7e16af229ef3d8a48541213fd218c974c1649
+Description:  Lua BitOp is a C extension module for Lua 5.1/5.2 which adds bitwise operations on numbers.
+
+Package: luasec
+Version: 0.9-1
+Depends: libc, lua, libopenssl1.1, luasocket
+Source: feeds/packages/lang/luasec
+SourceName: luasec
+License: MIT
+LicenseFiles: LICENSE
+Section: lang
+SourceDateEpoch: 1614187565
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 23836
+Filename: luasec_0.9-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 24595
+SHA256sum: 4401644e9ce9a797e3b60a3663e7eb2bb5ad7a3209909cc36c2301b7a994abfe
+Description:  LuaSec is a binding for OpenSSL library to provide TLS/SSL communication.
+
+Package: luasocket
+Version: 2019-04-21-733af884-1
+Depends: libc, lua
+Source: feeds/packages/lang/luasocket
+SourceName: luasocket
+License: MIT
+LicenseFiles: LICENSE
+Section: lang
+SourceDateEpoch: 1614187565
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 49997
+Filename: luasocket_2019-04-21-733af884-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 50615
+SHA256sum: 5488a65ae8de5d898329493f0f44b3eefd17d8734f9a099821c75e35e6c597ff
+Description:  LuaSocket is the most comprehensive networking support
+ library for the Lua language. It provides easy access to
+ TCP, UDP, DNS, SMTP, FTP, HTTP, MIME and much more.
+
+Package: socat
+Version: 1.7.3.4-2
+Depends: libc, libpthread, librt
+Source: feeds/packages/net/socat
+SourceName: socat
+License: GPL-2.0-or-later OpenSSL
+LicenseFiles: COPYING COPYING.OpenSSL
+Section: net
+SourceDateEpoch: 1614187565
+CPE-ID: cpe:/a:dest-unreach:socat
+Maintainer: Ted Hess <thess@kitschensync.net>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 89200
+Filename: socat_1.7.3.4-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 90360
+SHA256sum: dae1c1768e87e65ca1b1b08f9ed9d051c562921c91a304925c36dcacf1f9cfea
+Description:  SoCat (for SOcket CAT) establishes two bidirectional byte streams and
+ transfers data between them.
+ Data channels may be files, pipes, devices (terminal or modem, etc.), or
+ sockets (Unix, IPv4, IPv6, raw, UDP, TCP, SSL). It provides forking,
+ logging and tracing, different modes for interprocess communication and
+ many more options.
+
+Package: spi-tools
+Version: 0.8.6-1
+Depends: libc
+Source: feeds/packages/utils/spi-tools
+SourceName: spi-tools
+License: GPL-2.0-only
+LicenseFiles: LICENSE
+Section: utils
+SourceDateEpoch: 1608693758
+Maintainer: John Crispin <blogic@openwrt.org>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 4501
+Filename: spi-tools_0.8.6-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 5414
+SHA256sum: db46ceb20876ac5d5556321c66f8bd00c49524efed11e9bb14c89a31951fa980
+Description:  Command line SPI tools
+
