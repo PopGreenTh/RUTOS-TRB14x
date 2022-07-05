@@ -1154,25 +1154,6 @@ Size: 20346
 SHA256sum: d8d232d008407c1047bbe9a50c94d3882dc148d3fb713d90b0cfeb0166ed5e1b
 Description:  Build Android libcutils
 
-Package: libdb47
-Version: 4.7.25.4.NC-6
-Depends: libc
-Provides: libdb47-full
-Source: package/libs/db47
-SourceName: libdb47
-License: Sleepycat
-LicenseFiles: LICENSE
-Section: libs
-SourceDateEpoch: 1655970996
-Maintainer: Marcel Denia <naoir@gmx.net>
-Firmware: TRB1_R_GPL_00.07.02.3
-Architecture: arm_cortex-a7_neon-vfpv4
-Installed-Size: 507119
-Filename: libdb47_4.7.25.4.NC-6_arm_cortex-a7_neon-vfpv4.ipk
-Size: 505021
-SHA256sum: d6eedfcfce7d28f95c696e3d99ab35980e5950c5335f275b7e251c263b0b0f47
-Description:  Berkeley DB library (4.7).
-
 Package: libelf1
 Version: 0.180-1
 Depends: libc, zlib
@@ -4846,6 +4827,22 @@ Filename: uci_2020-10-06-52bbc99f-5_arm_cortex-a7_neon-vfpv4.ipk
 Size: 7806
 SHA256sum: f671bcdc4c6e3c56a76d121208e3e017ff0ca397dd16a33dd863655c487e4ecb
 Description:  Utility for the Unified Configuration Interface (UCI)
+
+Package: uclibcxx
+Version: 0.2.5-3
+Depends: libc
+Source: package/libs/uclibc++
+SourceName: uclibcxx
+License: LGPL-2.1-or-later
+Section: libs
+SourceDateEpoch: 1655970996
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 59445
+Filename: uclibcxx_0.2.5-3_arm_cortex-a7_neon-vfpv4.ipk
+Size: 60069
+SHA256sum: dcaf0df54552e3654c6bd72e48a7b7abe2df3074996342b86d8614b9f1fbb8a7
+Description:  C++ library for embedded systems
 
 Package: uclient-fetch
 Version: 2021-05-14-6a6011df-1

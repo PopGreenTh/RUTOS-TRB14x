@@ -1,0 +1,209 @@
+Package: node-azure-iot-device-amqp
+Version: 1.14.0-1
+Depends: libc, node
+License: MIT
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3881456
+Filename: node-azure-iot-device-amqp_1.14.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3866499
+SHA256sum: 892b3c7696a55dd4bf0569cc532d8001960122887fefc46351d027584d2144ce
+Description:  Communicate with Azure IoT Hub from any device over AMQP
+
+Package: node-azure-iot-device-http
+Version: 1.14.0-1
+Depends: libc, node
+License: MIT
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3312562
+Filename: node-azure-iot-device-http_1.14.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3298129
+SHA256sum: 1b92a93c2ce171009f2f25bca181c62291a814f67eb3f651ffbc472a0a4705dc
+Description:  Communicate with Azure IoT Hub from any device over HTTP 1.1
+
+Package: node-azure-iot-device-mqtt
+Version: 1.16.0-1
+Depends: libc, node
+License: MIT
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 4117957
+Filename: node-azure-iot-device-mqtt_1.16.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 4102086
+SHA256sum: fa0381fbf0cb42fa1850126587cdce8a6b08d5fa003b84c300f073d3581fa7d1
+Description:  Communicate with Azure IoT Hub from any device over MQTT
+
+Package: node-azure-iot-device
+Version: 1.18.0-1
+Depends: libc, node
+License: MIT
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3196993
+Filename: node-azure-iot-device_1.18.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3180568
+SHA256sum: a90192bb4b4ded06da228fb5bc1d6ffda6c4a90e5ee14de05670f59b1c41e057
+Description:  The core components of the Azure IoT device SDK.
+
+Package: node-azure-iothub
+Version: 1.15.0-1
+Depends: libc, node
+License: MIT
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 5730937
+Filename: node-azure-iothub_1.15.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 5708463
+SHA256sum: f902aa1ec85b74158cd4e47c4a096fbb5eb8a9de4805062a95cc1015d06c3ffe
+Description:  The Azure IoT Service SDK for Node.js helps you build applications that interact with your devices and manage their identities in your IoT hub
+
+Package: node-bcrypt
+Version: 5.0.1-2
+Depends: libc, node
+License: MIT
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 621660
+Filename: node-bcrypt_5.0.1-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 616188
+SHA256sum: ac3ec19c09fac5b91883e14c906d260b83e5919b3659ca088bd77a7dd76ba676
+Description:  A library to help you hash passwords. You can read about bcrypt in Wikipedia as well as in the following article: How To Safely Store A Password
+
+Package: node-bufferutil
+Version: 4.0.6-1
+Depends: libc, node
+License: MIT
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 9519
+Filename: node-bufferutil_4.0.6-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 10649
+SHA256sum: 1ea42d79dae5c44459f40df3439ccd7ab2e7e229f353a044d6ddfbc72ba9a100
+Description:  bufferutil is what makes ws fast. It provides some utilities to efficiently perform some operations such as masking and unmasking the data payload of WebSocket frames.
+
+Package: node-clean-modules
+Version: 2.0.5-1
+Depends: libc, node
+License: ISC
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 211170
+Filename: node-clean-modules_2.0.5-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 212333
+SHA256sum: da16d508c2e98fccf9a8652ad4717d58bdc6efffa0e080512ec8e6354e310e90
+Description:  Clean up/prune unnecessary files and reduce the size of your node_modules directory. Useful for CI caches or for reducing the size of your AWS Lambdas/Azure Functions.
+
+Package: node-npm-check-updates
+Version: 15.0.1-1
+Depends: libc, node, git
+License: Apache-2.0
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3860510
+Filename: node-npm-check-updates_15.0.1-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3855946
+SHA256sum: 8999c3b148237b7e8265a1959241b9f1e77575ac85ceb0ee687e8c4da22c035e
+Description:  The npm-check-updates program is a command-line tool that allows you to upgrade your package.json or bower.json dependencies to the latest versions, regardless of existing version constraints
+
+Package: node-pm2
+Version: 5.2.0-1
+Depends: libc, node
+License: AGPL-3.0
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 5843196
+Filename: node-pm2_5.2.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 5833434
+SHA256sum: adac00fe3a427fb22eef174f327733e108597df9fb586ad5cf35809a656f874b
+Description:  PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks
+
+Package: node-red-dashboard
+Version: 3.1.7-1
+Depends: libc, node, node-red
+License: Apache-2.0
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 2968065
+Filename: node-red-dashboard_3.1.7-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2965674
+SHA256sum: dd0ced3821b60a1ef804769971eefa13cb4c32e6fd2234f299cb039458976f3e
+Description:  This module provides a set of nodes in Node-RED to quickly create a live data dashboard.a
+
+Package: node-red-node-sqlite
+Version: 1.0.3-1
+Depends: libc, node, node-red, node-sqlite3
+License: Apache-2.0
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 7234
+Filename: node-red-node-sqlite_1.0.3-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 8357
+SHA256sum: 27ec7c2e61c543232937d7d6374f9a820b24fe490ca07632af64caee535fa39a
+Description:  A Node-Red node to read and write a local sqlite database.
+
+Package: node-red
+Version: 2.2.2-1
+Depends: libc, node, node-npm, node-bcrypt, node-bufferutil, node-utf-8-validate
+License: Apache-2.0
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 11429238
+Filename: node-red_2.2.2-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 11224208
+SHA256sum: 0c41c68b7d3bcbbe14034b49cf4f628395a4d7b1720f7ca12ee67c2b01dffe43
+Description:  A visual tool for wiring the Internet of Things
+
+Package: node-sqlite3
+Version: 5.0.8-1
+Depends: libc, node
+License: BSD-3-Clause
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 2353907
+Filename: node-sqlite3_5.0.8-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2346769
+SHA256sum: 693e03976ae5970cfb9651ff34429687b4bff97efd46f87fbbfe534d3b439db7
+Description:  Asynchronous, non-blocking SQLite3 bindings for Node.js
+
+Package: node-utf-8-validate
+Version: 5.0.9-1
+Depends: libc, node
+License: MIT
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 9169
+Filename: node-utf-8-validate_5.0.9-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 10228
+SHA256sum: 91095efa20dfc82dc7501f6aa07ca8f189d3a55b58f15716cc8e8ab0a980b10a
+Description:  Check if a buffer contains valid UTF-8 encoded text
+
+Package: ts-node
+Version: 10.8.1-1
+Depends: libc, node, node-npm
+License: MIT
+Section: lang
+Firmware: TRB1_R_GPL_00.07.02.3
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 503315
+Filename: ts-node_10.8.1-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 504043
+SHA256sum: bd605db09eb50cb807622ad4ace9a4b2872b5983bbead0a8b811f2f21ac0d382
+Description:  ts-node is a TypeScript execution engine and REPL for Node.js.
+ It JIT transforms TypeScript into JavaScript, enabling you to directly execute TypeScript on Node.js without precompiling. This is accomplished by hooking node's module loading APIs, enabling it to be used seamlessly alongside other Node.js tools and libraries.
+
